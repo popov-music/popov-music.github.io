@@ -1,0 +1,1297 @@
+<site sitename="New Site" version="3.0"><css/><page id="p38032948" name="index" pageindex="0" pp="0" cp="0"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" bgfixed=""><Component id="image1" zorder="2" type="3" filename="image16358101" left="20" top="3" width="206" height="138" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\leftop.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\leftop.gif" originwidth="206" originheight="138"/><Component id="image2" zorder="3" type="3" filename="image17214252" left="22" top="141" width="726" height="20" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" originwidth="4" originheight="20"/><Component id="image3" zorder="1" type="3" filename="image17472434" left="21" top="609" width="200" height="139" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left01.gif" originwidth="200" originheight="139" changefilename="0" alt="" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3"/><Component id="image4" zorder="4" type="3" filename="image17753137" left="21" top="316" width="200" height="297" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left02.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left02.gif" originwidth="200" originheight="7"/><Component id="image5" zorder="5" type="3" filename="image17985822" left="21" top="164" width="200" height="155" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left03.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left03.gif" originwidth="200" originheight="155"/><Component id="image6" zorder="6" type="3" filename="image18451652" left="21" top="748" width="730" height="20" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" originwidth="4" originheight="20" group="0" groupname=""/><Component id="text1" zorder="7" type="2" left="253" top="158" width="347" height="182" text="" filename="text18621406" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#33CCCC" face="Times New Roman" style="font-size:24px;background-color:#FFFFFF;"&gt;&lt;B&gt;Добро пожаловать на&lt;/B&gt;&lt;/font&gt;&lt;font color="#33CCCC" face="Times New Roman" style="font-size:19px;background-color:#FFFFFF;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#000000" face="Times New Roman" style="font-size:24px;background-color:#FFFFFF;"&gt;&lt;B&gt;мой вебсайт!&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Tahoma"&gt;О себе:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Tahoma"&gt;Люблю жизнь, детей и работу&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Tahoma"&gt;Книги, которые сформировали мой внутренний мир:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Tahoma"&gt;Л. Толстой "Война и мир", Э. Войнич "Овод"&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Tahoma"&gt;Мои достижения:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Tahoma"&gt;Почетный работник профтехобразования&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Tahoma"&gt;Моё портфолио:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Tahoma"&gt;Здраствуйте!&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#33CCCC" face="Times New Roman" class="ws18" style="background-color:#FFFFFF;"&gt;&lt;B&gt;Добро пожаловать на&lt;/B&gt;&lt;/font&gt;&lt;font color="#33CCCC" face="Times New Roman" class="ws14" style="background-color:#FFFFFF;"&gt;&lt;B&gt; &lt;/B&gt;&lt;/font&gt;&lt;font color="#000000" face="Times New Roman" class="ws18" style="background-color:#FFFFFF;"&gt;&lt;B&gt;мой вебсайт!&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Tahoma"&gt;О себе:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Tahoma"&gt;Люблю жизнь, детей и работу&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Tahoma"&gt;Книги, которые сформировали мой внутренний мир:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Tahoma"&gt;Л. Толстой "Война и мир", Э. Войнич "Овод"&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Tahoma"&gt;Мои достижения:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Tahoma"&gt;Почетный работник профтехобразования&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Tahoma"&gt;Моё портфолио:&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#0000FF" face="Tahoma"&gt;Здраствуйте!&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqcAwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFQ29sb3IHBmNsQmx1ZQABCVN0eWxlTmFtZQYLTm9ybWFsIHRl
+eHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQISBVN0eWxlCwZmc0Jv
+bGQABUNvbG9yBDPMzAAJQmFja0NvbG9yBwdjbFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhTdGFuZGFyZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAhIFU3R5bGULBmZzQm9s
+ZAAFQ29sb3IHB2NsQmxhY2sJQmFja0NvbG9yBwdjbFdoaXRlAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAg4FU3R5bGULBmZz
+Qm9sZAAFQ29sb3IEM8zMAAlCYWNrQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBUNvbG9yBwVjbFJlZAAALTkgMiAwIDAgMiAw
+IDINCnJ2cw0KbAAAAA4BCVN0eWxlTmFtZQYPUGFyYWdyYXBoIFN0eWxlB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADggMSAxIDAgMCAwDQrE7uHw7iDv7ubg
+6+7i4PL8IO3gDQoxMCAxIC0xIDEgMCAwDQogDQo5IDEgLTEgMSAwIDANCuzu6SDi5eHx4OnyIQ0K
+MTEgMSAxIDAgMCAwDQrOIPHl4eU6DQo3IDEgMSAwIDAgMA0Ky/7h6/4g5ujn7fwsIOTl8uXpIOgg
+8ODh7vLzDQoxMSAxIDEgMCAwIDANCsrt6OPoLCDq7vLu8PvlIPH07vDs6PDu4uDr6CDs7ukg4u3z
+8vDl7e3o6SDs6PA6DQo3IDEgMSAwIDAgMA0Kyy4g0u7r8fLu6SAiwu7p7eAg6CDs6PAiLCDdLiDC
+7unt6PcgIs7i7uQiDQoxMSAxIDEgMCAwIDANCszu6CDk7vHy6Obl7ej/Og0KNyAxIDEgMCAwIDAN
+Cs/u9+Xy7fvpIPDg4e7y7ejqIO/w7vTy5fXu4fDg5+7i4O3o/w0KMTEgMSAxIDAgMCAwDQrM7rgg
+7+7w8vTu6+juOg0KNyAxIDEgMCAwIDANCsfk8ODx8uLz6fLlIQ0K
+</rvf></Component><Component id="image7" zorder="8" type="3" filename="image18756550" left="21" top="359" width="194" height="20" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" originwidth="4" originheight="20" group="0" groupname=""/><Component id="text4" zorder="9" type="2" filename="text19568638" left="577" top="387" width="184" height="354" text="" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;Web Page Maker&lt;/font&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt; is an easy-to-use web page editor that allows you to create and upload web pages in minutes without knowing HTML. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt;Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;Web Page Maker&lt;/font&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt; is an easy-to-use web page editor that allows you to create and upload web pages in minutes without knowing HTML. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt;Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;Web Page Maker&lt;/font&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt; is an easy-to-use web page editor that allows you to create and upload web pages in minutes without knowing HTML. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt;Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;Web Page Maker&lt;/font&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt; is an easy-to-use web page editor that allows you to create and upload web pages in minutes without knowing HTML. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt;Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpRAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBUNvbG9yBwZjbEdyYXkAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVDb2xvcgSWlpYAAAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQpsAAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANyAxIDAgMCAwIDAN
+CldlYiBQYWdlIE1ha2VyDQo4IDEgLTEgMSAwIDANCiBpcyBhbiBlYXN5LXRvLXVzZSB3ZWIgcGFn
+ZSBlZGl0b3IgdGhhdCBhbGxvd3MgeW91IHRvIGNyZWF0ZSBhbmQgdXBsb2FkIHdlYiBwYWdlcyBp
+biBtaW51dGVzIHdpdGhvdXQga25vd2luZyBIVE1MLiANCjggOSAwIDAgMCAwDQoNClNpbXBseSBk
+cmFnIGFuZCBkcm9wIG9iamVjdHMgb250byB0aGUgcGFnZSBhbmQgcG9zaXRpb24gdGhlbSBmcmVl
+bHkgaW4gdGhlIGxheW91dC4NCg0KDQoNCg0KDQoNCg0KNyAxIDAgMCAwIDANCldlYiBQYWdlIE1h
+a2VyDQo4IDEgLTEgMSAwIDANCiBpcyBhbiBlYXN5LXRvLXVzZSB3ZWIgcGFnZSBlZGl0b3IgdGhh
+dCBhbGxvd3MgeW91IHRvIGNyZWF0ZSBhbmQgdXBsb2FkIHdlYiBwYWdlcyBpbiBtaW51dGVzIHdp
+dGhvdXQga25vd2luZyBIVE1MLiANCjggMyAwIDAgMCAwDQoNClNpbXBseSBkcmFnIGFuZCBkcm9w
+IG9iamVjdHMgb250byB0aGUgcGFnZSBhbmQgcG9zaXRpb24gdGhlbSBmcmVlbHkgaW4gdGhlIGxh
+eW91dC4NCg0K
+</rvf></Component><Component id="text5" zorder="10" type="2" filename="text19729139" left="254" top="556" width="272" height="184" text="" bgcolor="#F7F7F7" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Tahoma" style="font-size:15px;"&gt;&lt;B&gt;Транспортные средства&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font color="#0D4AB1" face="Tahoma"&gt;&lt;U&gt;27. 05 2017 презентация участковой станции&lt;/U&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="#0D4AB1" face="Tahoma"&gt;&lt;U&gt;Внеклассное мероприятие "Мы за здоровый образ жизни"&lt;/U&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="#0D4AB1" face="Tahoma"&gt;&lt;U&gt;Иготовая аттестация по профессии "Проводник пассажирского вагона"&lt;/U&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="#0D4AB1" face="Tahoma"&gt;&lt;U&gt;Итоговая аттестация в группе "Проводник пассажирского вагона"&lt;/U&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Tahoma" class="ws11"&gt;&lt;B&gt;Транспортные средства&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font color="#0D4AB1" face="Tahoma"&gt;&lt;U&gt;27. 05 2017 презентация участковой станции&lt;/U&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="#0D4AB1" face="Tahoma"&gt;&lt;U&gt;Внеклассное мероприятие "Мы за здоровый образ жизни"&lt;/U&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="#0D4AB1" face="Tahoma"&gt;&lt;U&gt;Иготовая аттестация по профессии "Проводник пассажирского вагона"&lt;/U&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="#0D4AB1" face="Tahoma"&gt;&lt;U&gt;Итоговая аттестация в группе "Проводник пассажирского вагона"&lt;/U&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrLAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwtmc1VuZGVybGluZQAFQ29sb3IHBmNs
+R3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEF
+U3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgQNSrEAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhT
+dGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2Ns
+QmxhY2sAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBT
+dHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2
+YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQp1AAAADgEJU3R5
+bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50AhgLRmlyc3RJ
+bmRlbnQCAAtGb250LkhlaWdodALwCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEySi3egAAOSAx
+IDAgMCAwIDANCtLw4O3x7+7w8u375SDx8OXk8fLi4A0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQo4
+IDEgLTEgMSAwIDANCjI3LiAwNSAyMDE3IO/w5efl7fLg9uj/IPP34PHy6u7i7ukg8fLg7fbo6A0K
+LTExIDAgMCAwIDAgMCAwIDAgMCAwDQo4IDEgLTEgMSAwIDANCsLt5err4PHx7e7lIOzl8O7v8Oj/
+8ujlICLM+yDn4CDn5O7w7uL76SDu4fDg5yDm6Oft6CINCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0K
+OCAxIC0xIDEgMCAwDQrI4+7y7uLg/yDg8vLl8fLg9uj/IO/uIO/w7vTl8fHo6CAiz/Du4u7k7ejq
+IO/g8fHg5ujw8eru4+4g4uDj7u3gIg0KLTExIDAgMCAwIDAgMCAwIDAgMCAwDQo4IDEgLTEgMSAw
+IDANCsjy7uPu4uD/IODy8uXx8uD26P8g4iDj8PPv7+UgIs/w7uLu5O3o6iDv4PHx4Obo8PHq7uPu
+IOLg4+7t4CINCjcgMSAwIDAgMCAwDQoNCg==
+</rvf></Component><Component id="roundrect1" zorder="0" type="10" filename="shape20057190" left="545" top="365" width="253" height="377" fillstyle="0" spborder="1" fromcolor="" shapetype="1" radius="20" previewfile="C:\Users\D97B~1\AppData\Local\Temp\Web Page Maker\docK04T1\shapeG4HFP.gif" bgcolor="" bordercolor="#C0C0C0" borderwidth="1" borderstyle="" fp="0"/><Component type="3" id="image9" zorder="11" filename="image38777949" left="578" top="496" width="182" height="52" originwidth="165" originheight="52" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\3p6.jpg" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\3p6.jpg"/><Component type="7" id="marquee1" zorder="12" filename="marquee39259502" width="177" height="178" html="" left="29" top="190" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3" behavior="" direction="Up" scrolldelay="150" scrollamount="" loop="" rvf="" exporthtml="" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;Попова Вера Ильинична &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Calibri" style="font-size:16px;"&gt;&lt;B&gt;Педагог в ГБУ ПО РМ&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Calibri" style="font-size:16px;"&gt;&lt;B&gt; "РЖПТ им. А.П. Байкузова"&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Calibri" class="ws12"&gt;&lt;B&gt;Попова Вера Ильинична &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Calibri" class="ws12"&gt;&lt;B&gt;Педагог в ГБУ ПО РМ&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#FF0000" face="Calibri" class="ws12"&gt;&lt;B&gt; "РЖПТ им. А.П. Байкузова"&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoaAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgdDYWxpYnJpBFNpemUCDAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcFY2xSZWQA
+AC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDMgMSAwIDAg
+MA0Kz+7v7uLgIMLl8OAgyOv86O3o9+3gIA0Kz+Xk4OPu4yDiIMPB0yDPziDQzA0KICLQxs/SIOjs
+LiDALs8uIMHg6erz5+7i4CINCg==
+</rvf></Component><Component id="rollimg1" zorder="13" type="13" filename="rollimg39544912" width="74" height="94" linkurl="page://p38032948" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav01.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav011.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav011.gif" alt="Home" mouseoversound="" rollstyle="1" left="276" top="23" linktitle="" group="0" groupname="" linkstyle=""/><Component id="rollimg2" zorder="14" type="13" filename="rollimg39544922" width="74" height="94" linkurl="page://p46803439" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav02.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav02.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav021.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav021.gif" alt="Services" mouseoversound="" rollstyle="1" left="395" top="22" group="0" groupname="" linktitle="" linkstyle=""/><Component id="rollimg3" zorder="15" type="13" filename="rollimg39544932" width="74" height="94" linkurl="page://p46651050" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav03.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav03.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav031.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav031.gif" alt="Products" mouseoversound="" rollstyle="1" left="520" top="21" group="0" groupname="" linktitle="" linkstyle=""/><Component id="rollimg5" zorder="16" type="13" filename="rollimg39544962" width="74" height="94" linkurl="mailto:support@webpage-maker.com" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav05.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav05.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav051.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav051.gif" alt="Contacts" mouseoversound="" rollstyle="1" left="637" top="23" group="0" groupname="" linktitle="" linkstyle=""/><Component type="3" id="image8" zorder="17" filename="image40997160" left="599" top="158" width="147" height="181" originwidth="151" originheight="180" src="C:\Users\Вера\Desktop\popova_v.i.jpg" previewfile="C:\Users\Вера\Desktop\popova_v.i.jpg" fp="0"/><Component id="text6" zorder="18" type="2" left="253" top="770" width="403" height="48" text="" filename="text41394201" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;B&gt;Copyright Popova Vera Website Inc. All rights reserved.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;BR&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;B&gt;Copyright Popova Vera Website Inc. All rights reserved.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;BR&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoaAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbEdyYXkA
+AC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdP
+cHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRl
+cgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMCAwIDAg
+MA0KQ29weXJpZ2h0IFBvcG92YSBWZXJhIFdlYnNpdGUgSW5jLiBBbGwgcmlnaHRzIHJlc2VydmVk
+Lg0KMCAyIDAgMCAwIDANCiANCg0K
+</rvf></Component><Component type="2" id="text7" zorder="19" filename="text136896781" width="150" height="90" html="" left="43" top="23" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Edwardian Script ITC" style="font-size:37px;"&gt;Popova Vera.github.io&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font color="#FFFFFF" face="Edwardian Script ITC" class="ws28"&gt;Popova Vera.github.io&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoAAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhRFZHdhcmRpYW4gU2NyaXB0IElUQwRTaXplAhwFQ29sb3IHB2NsV2hp
+dGUAAC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFS
+aWdodAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnML
+DXJ2cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARU
+YWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAxIDAgMCAwDQpQb3BvdmEgVmVy
+YS5naXRodWIuaW8NCg==
+</rvf></Component><Component id="text8" zorder="20" type="2" filename="text140092140" left="254" top="365" width="272" height="172" text="" bgcolor="#F7F7F7" group="0" groupname="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" newcode="1" editcode="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Tahoma" style="font-size:19px;"&gt;Мои публикации:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="Tahoma" style="font-size:16px;"&gt;Образование и педагогика:&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font color="#0D4AB1" face="Tahoma" style="font-size:19px;"&gt;&lt;U&gt;Научно-техническая конференция&lt;/U&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="#0D4AB1" face="Tahoma" style="font-size:19px;"&gt;&lt;U&gt;Презентация урока "Взаимное расположение СП"&lt;/U&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#000000" face="Tahoma" class="ws14"&gt;Мои публикации:&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#000000" face="Tahoma" class="ws12"&gt;Образование и педагогика:&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font color="#0D4AB1" face="Tahoma" class="ws14"&gt;&lt;U&gt;Научно-техническая конференция&lt;/U&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color="#0D4AB1" face="Tahoma" class="ws14"&gt;&lt;U&gt;Презентация урока "Взаимное расположение СП"&lt;/U&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoNAwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwtmc1VuZGVybGluZQAFQ29sb3IHBmNs
+R3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEE
+U2l6ZQIOBUNvbG9yBwdjbEJsYWNrAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgI
+Rm9udE5hbWUGBlRhaG9tYQRTaXplAgwFQ29sb3IHB2NsQmxhY2sAAQlTdHlsZU5hbWUGC05vcm1h
+bCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCDgVTdHlsZQsLZnNVbmRlcmxp
+bmUABUNvbG9yBA1KsQAAAC05IDIgMCAwIDIgMCAyDQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1Bh
+cmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGln
+bm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQp1
+AAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50
+AhgLRmlyc3RJbmRlbnQCAAtGb250LkhlaWdodALwCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQE
+sXjZFQAAOCAxIDAgMCAwIDANCszu6CDv8+Hr6Org9ujoOg0KOSAxIDAgMCAwIDANCs7h8ODn7uLg
+7ejlIOgg7+Xk4OPu4+jq4DoNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KMTAgMSAtMSAxIDAgMA0K
+zeDz9+3uLfLl9e3o9+Xx6uD/IOru7fTl8OXt9uj/DQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjEw
+IDEgLTEgMSAwIDANCs/w5efl7fLg9uj/IPPw7urgICLC5+Do7O3u5SDw4PHv7uvu5uXt6OUg0c8i
+DQo3IDEgMCAwIDAgMA0KDQo=
+</rvf></Component><Component type="5" id="nav1" zorder="21" filename="nav141785500" fontname="Tahoma" fontsize="10" fontcolor="16776960" fontstyle="1" activecolor="16777215" navspace="19" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="25" normalimage="D:\х.з\Новая папка (2)\Documents\Web Page Maker\Navbar\rectb01in.gif" mouseoverimage="D:\х.з\Новая папка (2)\Documents\Web Page Maker\Navbar\rectb01over.gif" mouseoversound="" navtext0="Главная" navurl0="" navtarget0="" navstate0="0" navtext1="services" navurl1="page://p46803439" navtarget1="" navstate1="0" navtext2="products" navurl2="page://p46651050" navtarget2="" navstate2="0" navcount="3" width="180" height="132" preview="C:\Users\D97B~1\AppData\Local\Temp\Web Page Maker\docK04T1\NavLN6EI" left="26" top="480" fp="0"/></body></page>
+	<page id="p46803439" name="services" pageindex="1"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" bgfixed=""><Component id="image1" zorder="1" type="3" filename="image16358101" left="22" top="3" width="206" height="138" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\leftop.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\leftop.gif" originwidth="206" originheight="138"/><Component id="image2" zorder="2" type="3" filename="image17214252" left="22" top="141" width="726" height="20" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" originwidth="4" originheight="20"/><Component id="image3" zorder="0" type="3" filename="image17472434" left="21" top="609" width="200" height="139" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left01.gif" originwidth="200" originheight="139" changefilename="0" alt="" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3"/><Component id="image4" zorder="3" type="3" filename="image17753137" left="21" top="319" width="200" height="297" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left02.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left02.gif" originwidth="200" originheight="7"/><Component id="image5" zorder="4" type="3" filename="image17985822" left="21" top="164" width="200" height="155" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left03.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left03.gif" originwidth="200" originheight="155"/><Component id="image6" zorder="5" type="3" filename="image18451652" left="21" top="748" width="730" height="20" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" originwidth="4" originheight="20" group="0" groupname=""/><Component id="image7" zorder="6" type="3" filename="image18756550" left="21" top="359" width="194" height="20" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" originwidth="4" originheight="20" group="0" groupname=""/><Component id="text2" zorder="7" type="2" left="44" top="391" width="156" height="205" text="" filename="text19092763" group="0" groupname="" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#D90000&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#0E49B1&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;U&gt; TODAY&amp;nbsp;&amp;nbsp; NEWS &lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&amp;nbsp;&amp;nbsp; Double click to edit text.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#D90000&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#0E49B1&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;U&gt; TODAY&amp;nbsp;&amp;nbsp; NEWS &lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&amp;nbsp;&amp;nbsp; Double click to edit text.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#D90000&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font class=&quot;ws8&quot; color=&quot;#0E49B1&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;U&gt; TODAY&amp;nbsp;&amp;nbsp; NEWS &lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&amp;nbsp;&amp;nbsp; Double click to edit text.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#D90000&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font class=&quot;ws8&quot; color=&quot;#0E49B1&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;U&gt; TODAY&amp;nbsp;&amp;nbsp; NEWS &lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&amp;nbsp;&amp;nbsp; Double click to edit text.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpHBwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQLZnNVbmRlcmxpbmUA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQVTdHls
+ZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgOZMwABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAtmc1VuZGVybGluZQAFQ29s
+b3ID2QAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21h
+BVN0eWxlCwZmc0JvbGQABUNvbG9yA9kAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFy
+ZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULBmZzQm9sZAAFQ29sb3ID2QAAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAABCVN0
+eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0
+eWxlCwZmc0JvbGQAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+BlRhaG9tYQRTaXplAggFU3R5bGULBmZzQm9sZAtmc1VuZGVybGluZQAFQ29sb3ID2QAAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHls
+ZQsGZnNCb2xkAAVDb2xvcgQzM5kAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgI
+Rm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULBmZzQm9sZAtmc1VuZGVybGluZQAFQ29sb3IE
+MzOZAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEE
+U2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yBA5JsQAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0
+CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJs
+aW5lAAVDb2xvcgQOSbEAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGBlRhaG9tYQRTaXplAggFU3R5bGULBmZzQm9sZAAFQ29sb3IHBmNsR3JheQABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZm
+c0JvbGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250
+TmFtZQYFQXJpYWwEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbEdyYXkAAQlTdHlsZU5h
+bWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwFU3R5bGULBmZzQm9sZAAF
+Q29sb3IHBmNsR3JheQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KbAAAAA4BCVN0eWxlTmFtZQYPUGFy
+YWdyYXBoIFN0eWxlB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdu
+bWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCnUA
+AAAOAQlTdHlsZU5hbWUGCkxpc3QgU3R5bGUIU3RhbmRhcmQIBkxldmVscw4BCkxlZnRJbmRlbnQC
+GAtGaXJzdEluZGVudAIAC0ZvbnQuSGVpZ2h0AvAJRm9udC5OYW1lBgZTeW1ib2wAAAVMc3RJRATi
+tsFWAAAxMiAxIDAgMCAwIDANCiAgICAgICAgDQoxOSAxIC0xIDEgMCAwDQogVE9EQVkgICBORVdT
+IA0KMTQgMSAwIDAgMCAwDQoNCjEzIDcgMCAwIDAgMA0KICAgRG91YmxlIGNsaWNrIHRvIGVkaXQg
+dGV4dC4NCg0KDQoNCg0KDQoNCjEyIDEgMCAwIDAgMA0KICAgICAgICANCjE5IDEgLTEgMSAwIDAN
+CiBUT0RBWSAgIE5FV1MgDQoxNCAxIDAgMCAwIDANCg0KMTMgMSAwIDAgMCAwDQogICBEb3VibGUg
+Y2xpY2sgdG8gZWRpdCB0ZXh0Lg0K
+"></Component><Component id="text1" zorder="8" type="2" left="251" top="185" width="480" height="155" text="" filename="text40743876" group="0" groupname="" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:19px&quot; color=&quot;#33CCCC&quot; face=&quot;Times New Roman&quot;&gt;&lt;B&gt;&lt;I&gt;Welcome to &lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;font style=&quot;font-size:19px&quot; color=&quot;#333333&quot; face=&quot;Times New Roman&quot;&gt;&lt;B&gt;&lt;I&gt;company website!&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:15px&quot; color=&quot;#333333&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Web Page Maker is an extremely easy to use utility that allows you to create your own pages without even knowing HTML. You can create your site using Web Page Maker's professional templates or start from scratch by dragging and dropping images, music and video.. into a layout. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;During the edit process, you can easily move the elements with your mouse to anywhere on the page. Other features include thumbnail, mouse-over effects, ready-to-use Java Script effects, text link style sheet, tables, forms, iframes etc. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color=&quot;#C0C0C0&quot; face=&quot;Verdana&quot;&gt;...............................................................................................&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;&lt;font class=&quot;ws14&quot; color=&quot;#33CCCC&quot; face=&quot;Times New Roman&quot;&gt;&lt;B&gt;&lt;I&gt;Welcome to &lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;font class=&quot;ws14&quot; color=&quot;#333333&quot; face=&quot;Times New Roman&quot;&gt;&lt;B&gt;&lt;I&gt;company website!&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws11&quot; color=&quot;#333333&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Web Page Maker is an extremely easy to use utility that allows you to create your own pages without even knowing HTML. You can create your site using Web Page Maker's professional templates or start from scratch by dragging and dropping images, music and video.. into a layout. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;During the edit process, you can easily move the elements with your mouse to anywhere on the page. Other features include thumbnail, mouse-over effects, ready-to-use Java Script effects, text link style sheet, tables, forms, iframes etc. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color=&quot;#C0C0C0&quot; face=&quot;Verdana&quot;&gt;...............................................................................................&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQryEgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQABUNvbG9yBwhjbE1h
+cm9vbgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEF
+U3R5bGULBmZzQm9sZAAFQ29sb3IHBWNsUmVkAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgPVAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQILBVN0eWxlCwZm
+c0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0
+CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBUNvbG9yBwVjbFJlZAABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEFQ29sb3ID0gAAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQABUNv
+bG9yA9IAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9t
+YQVDb2xvcgQzMzMAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+BlRhaG9tYQVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgI
+Rm9udE5hbWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxl
+TmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIOBVN0eWxl
+CwZmc0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGBlRhaG9tYQRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIO
+BVN0eWxlCwZmc0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFy
+ZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IE
+MzMzAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEE
+U2l6ZQIIBUNvbG9yBwZjbEdyYXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYPVGltZXMgTmV3IFJvbWFuBFNpemUCDgVTdHlsZQsGZnNCb2xkCGZzSXRhbGljAAVD
+b2xvcgPVAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1l
+cyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMABUNvbG9yBDMzMwAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYPVGltZXMgTmV3IFJvbWFu
+BFNpemUCDgVTdHlsZQsGZnNCb2xkCGZzSXRhbGljAAVDb2xvcgQzmWYAAAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAg4FU3R5
+bGULBmZzQm9sZAhmc0l0YWxpYwAFQ29sb3IEM8zMAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yA9IA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXpl
+AgkFU3R5bGULBmZzQm9sZAAFQ29sb3ID0gAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXplAgkFU3R5bGULBmZzQm9sZAAFQ29sb3ID0gAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXplAgkF
+Q29sb3ID0gAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVy
+ZGFuYQRTaXplAgkFQ29sb3IHCGNsU2lsdmVyAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGB1ZlcmRhbmEEU2l6ZQIJBUNvbG9yBOvr6wAAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQVDb2xvcgTr6+sAAAEJU3R5bGVO
+YW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGB1ZlcmRhbmEFQ29sb3IE4eHhAAAB
+CVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBUNvbG9y
+BwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZU
+YWhvbWEEU2l6ZQIGBUNvbG9yBwZjbEdyYXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIHBUNvbG9yBwZjbEdyYXkAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCwVTdHlsZQsGZnNC
+b2xkAAVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAFQ29sb3IElpaWAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBFNpemUCCwVTdHlsZQsG
+ZnNCb2xkAAVDb2xvcgSWlpYAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGFE1pY3Jvc29mdCBTYW5zIFNlcmlmBFNpemUCCwVTdHlsZQsGZnNCb2xkAAVDb2xvcgSW
+lpYAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGC0NvdXJpZXIg
+TmV3BFNpemUCCwVTdHlsZQsGZnNCb2xkAAVDb2xvcgSWlpYAAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGDUNvbWljIFNhbnMgTVMEU2l6ZQILBVN0eWxlCwZmc0Jv
+bGQABUNvbG9yBJaWlgAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFt
+ZQYHQ291cmllcgRTaXplAgsFU3R5bGULBmZzQm9sZAAFQ29sb3IElpaWAAABCVN0eWxlTmFtZQYL
+Tm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBhRNaWNyb3NvZnQgU2FucyBTZXJpZgRTaXpl
+AgwFU3R5bGULBmZzQm9sZAAFQ29sb3IElpaWAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbEdy
+YXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNp
+emUCCAVTdHlsZQsGZnNCb2xkAAVDb2xvcgT/mQAAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhT
+dGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRh
+aG9tYQRTaXplAggFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgT/mQAAAAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFQ29sb3IE/5kAAAAB
+CVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQII
+BVN0eWxlCwZmc0JvbGQLZnNVbmRlcmxpbmUABUNvbG9yBP+ZAAAAAQlTdHlsZU5hbWUGC05vcm1h
+bCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVDb2xvcgcIY2xTaWx2ZXIA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUC
+CAVDb2xvcgSWlpYAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+BlRhaG9tYQRTaXplAggFQ29sb3IEZIeOAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yBGSHjgAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVT
+dHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yBGSHjgAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJsaW5l
+AAVDb2xvcgRkh44AAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+BlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xHcmF5AAAtOSAyIDAgMCAyIDAgMg0KcnZz
+DQqxAAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0
+eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAAB
+CVN0eWxlTmFtZQYIQ2VudGVyZWQIU3RhbmRhcmQICUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9u
+cwsABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0K6AAAAA4BCVN0eWxlTmFtZQYKTGlzdCBT
+dHlsZQhTdGFuZGFyZAgGTGV2ZWxzDgEKTGVmdEluZGVudAIYC0ZpcnN0SW5kZW50AgALRm9udC5I
+ZWlnaHQC8AlGb250Lk5hbWUGBlN5bWJvbAAABUxzdElEBM8N6AMAAQlTdHlsZU5hbWUGCkxpc3Qg
+U3R5bGUIU3RhbmRhcmQIBkxldmVscw4BCkxlZnRJbmRlbnQCGAtGaXJzdEluZGVudAIAC0ZvbnQu
+SGVpZ2h0AvAJRm9udC5OYW1lBgZTeW1ib2wAAAVMc3RJRARTm6sbAAAyNyAxIDAgMCAwIDANCldl
+bGNvbWUgdG8gDQoyNSAxIC0xIDEgMCAwDQpjb21wYW55IHdlYnNpdGUhDQoxOCAxIDAgMCAwIDAN
+Cg0KMjMgMyAwIDAgMCAwDQpXZWIgUGFnZSBNYWtlciBpcyBhbiBleHRyZW1lbHkgZWFzeSB0byB1
+c2UgdXRpbGl0eSB0aGF0IGFsbG93cyB5b3UgdG8gY3JlYXRlIHlvdXIgb3duIHBhZ2VzIHdpdGhv
+dXQgZXZlbiBrbm93aW5nIEhUTUwuIFlvdSBjYW4gY3JlYXRlIHlvdXIgc2l0ZSB1c2luZyBXZWIg
+UGFnZSBNYWtlcidzIHByb2Zlc3Npb25hbCB0ZW1wbGF0ZXMgb3Igc3RhcnQgZnJvbSBzY3JhdGNo
+IGJ5IGRyYWdnaW5nIGFuZCBkcm9wcGluZyBpbWFnZXMsIG11c2ljIGFuZCB2aWRlby4uIGludG8g
+YSBsYXlvdXQuIA0KDQpEdXJpbmcgdGhlIGVkaXQgcHJvY2VzcywgeW91IGNhbiBlYXNpbHkgbW92
+ZSB0aGUgZWxlbWVudHMgd2l0aCB5b3VyIG1vdXNlIHRvIGFueXdoZXJlIG9uIHRoZSBwYWdlLiBP
+dGhlciBmZWF0dXJlcyBpbmNsdWRlIHRodW1ibmFpbCwgbW91c2Utb3ZlciBlZmZlY3RzLCByZWFk
+eS10by11c2UgSmF2YSBTY3JpcHQgZWZmZWN0cywgdGV4dCBsaW5rIHN0eWxlIHNoZWV0LCB0YWJs
+ZXMsIGZvcm1zLCBpZnJhbWVzIGV0Yy4gDQozNiAxIDAgMCAwIDANCi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4u
+Li4uLi4uLi4uLi4uLi4uLi4uLi4uDQo=
+" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3"></Component><Component id="text4" zorder="9" type="2" filename="text40743906" left="501" top="449" width="224" height="221" text="" group="0" groupname="" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt;Web Page Maker is an easy-to-use web page editor that allows you to create and upload web pages in minutes without knowing HTML. Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;No html coding is required and you do not need any web experience. &lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;Drag and drop the elements, move anything anywhere with your mouse on the page. &lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;An entire website exists as a single file, so you can easily manage your site at once. &lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt;Web Page Maker is an easy-to-use web page editor that allows you to create and upload web pages in minutes without knowing HTML. Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;No html coding is required and you do not need any web experience. &lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;Drag and drop the elements, move anything anywhere with your mouse on the page. &lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;An entire website exists as a single file, so you can easily manage your site at once. &lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#0D4AB1&quot; face=&quot;Tahoma&quot;&gt;&lt;U&gt;&lt;BR&gt;&lt;/U&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqMBAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFQ29sb3IHBmNsR3JheQABCVN0eWxlTmFtZQYL
+Tm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBUNvbG9yBJaWlgAA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUC
+CAVDb2xvcgRmZpkAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+BlRhaG9tYQRTaXplAggFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgRmZpkAAAEJU3R5bGVOYW1l
+BgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULC2Zz
+VW5kZXJsaW5lAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZU
+YWhvbWEEU2l6ZQIIBVN0eWxlCwtmc1VuZGVybGluZQAFQ29sb3IHBmNsR3JheQABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwtm
+c1VuZGVybGluZQAFQ29sb3IEDUp1AAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQI
+CEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwtmc1VuZGVybGluZQAFQ29sb3IEDUqxAAAA
+LTkgMiAwIDAgMiAwIDINCnJ2cw0KbAAAAA4BCVN0eWxlTmFtZQYPUGFyYWdyYXBoIFN0eWxlB09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVy
+B09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNClsBAAAOAQlTdHlsZU5hbWUG
+Ckxpc3QgU3R5bGUIU3RhbmRhcmQIBkxldmVscw4BCkxlZnRJbmRlbnQCGAtGaXJzdEluZGVudAIA
+C0ZvbnQuSGVpZ2h0AvAJRm9udC5OYW1lBgZTeW1ib2wAAAVMc3RJRASbehAeAAEJU3R5bGVOYW1l
+BgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50AhgLRmlyc3RJbmRlbnQC
+AAtGb250LkhlaWdodALwCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEC9VqSgABCVN0eWxlTmFt
+ZQYKTGlzdCBTdHlsZQhTdGFuZGFyZAgGTGV2ZWxzDgEKTGVmdEluZGVudAIYC0ZpcnN0SW5kZW50
+AgALRm9udC5IZWlnaHQC8AlGb250Lk5hbWUGBlN5bWJvbAAABUxzdElEBIW6JAkAADkgMiAwIDAg
+MCAwDQpXZWIgUGFnZSBNYWtlciBpcyBhbiBlYXN5LXRvLXVzZSB3ZWIgcGFnZSBlZGl0b3IgdGhh
+dCBhbGxvd3MgeW91IHRvIGNyZWF0ZSBhbmQgdXBsb2FkIHdlYiBwYWdlcyBpbiBtaW51dGVzIHdp
+dGhvdXQga25vd2luZyBIVE1MLiBTaW1wbHkgZHJhZyBhbmQgZHJvcCBvYmplY3RzIG9udG8gdGhl
+IHBhZ2UgYW5kIHBvc2l0aW9uIHRoZW0gZnJlZWx5IGluIHRoZSBsYXlvdXQuDQoNCjE1IDcgMCAw
+IDAgMA0KTm8gaHRtbCBjb2RpbmcgaXMgcmVxdWlyZWQgYW5kIHlvdSBkbyBub3QgbmVlZCBhbnkg
+d2ViIGV4cGVyaWVuY2UuIA0KDQpEcmFnIGFuZCBkcm9wIHRoZSBlbGVtZW50cywgbW92ZSBhbnl0
+aGluZyBhbnl3aGVyZSB3aXRoIHlvdXIgbW91c2Ugb24gdGhlIHBhZ2UuIA0KDQpBbiBlbnRpcmUg
+d2Vic2l0ZSBleGlzdHMgYXMgYSBzaW5nbGUgZmlsZSwgc28geW91IGNhbiBlYXNpbHkgbWFuYWdl
+IHlvdXIgc2l0ZSBhdCBvbmNlLiANCg0KDQo=
+"></Component><Component type="2" id="text5" zorder="10" filename="text41076004" left="43" top="50" width="164" height="90" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:19px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;B&gt;YOUR COMPANY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:19px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; .COM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:16px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpkDwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQABUNvbG9yBwhjbE1h
+cm9vbgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEF
+U3R5bGULBmZzQm9sZAAFQ29sb3IHBWNsUmVkAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgPVAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQILBVN0eWxlCwZm
+c0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0
+CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBUNvbG9yBwVjbFJlZAABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEFQ29sb3ID0gAAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQABUNv
+bG9yA9IAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9t
+YQVDb2xvcgQzMzMAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+BlRhaG9tYQVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgI
+Rm9udE5hbWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxl
+TmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIOBVN0eWxl
+CwZmc0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGBlRhaG9tYQRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIO
+BVN0eWxlCwZmc0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFy
+ZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IE
+MzMzAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEE
+U2l6ZQIIBUNvbG9yBwZjbEdyYXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYPVGltZXMgTmV3IFJvbWFuBFNpemUCDgVTdHlsZQsGZnNCb2xkCGZzSXRhbGljAAVD
+b2xvcgPVAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1l
+cyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMABUNvbG9yBDMzMwAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYPVGltZXMgTmV3IFJvbWFu
+BFNpemUCDgVTdHlsZQsGZnNCb2xkCGZzSXRhbGljAAVDb2xvcgQzmWYAAAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAg4FU3R5
+bGULBmZzQm9sZAhmc0l0YWxpYwAFQ29sb3IEM8zMAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yA9IA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXpl
+AgkFU3R5bGULBmZzQm9sZAAFQ29sb3ID0gAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXplAgkFU3R5bGULBmZzQm9sZAAFQ29sb3ID0gAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXplAgkF
+Q29sb3ID0gAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVy
+ZGFuYQRTaXplAgkFQ29sb3IHCGNsU2lsdmVyAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGB1ZlcmRhbmEEU2l6ZQIJBUNvbG9yBOvr6wAAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQVDb2xvcgTr6+sAAAEJU3R5bGVO
+YW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGB1ZlcmRhbmEFQ29sb3IE4eHhAAAB
+CVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9t
+YW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQABUNvbG9yBDPMzAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYPVGltZXMgTmV3IFJvbWFuBFNpemUCDgVDb2xvcgQzzMwA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBS
+b21hbgRTaXplAg4FQ29sb3IHBmNsR3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwhmc0l0YWxpYwAFQ29s
+b3IHBmNsR3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9U
+aW1lcyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMABUNvbG9yBwZjbEdy
+YXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6
+ZQIOAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBUFyaWFsBFNp
+emUCDgVTdHlsZQsGZnNCb2xkAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZv
+bnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxl
+CwZmc0JvbGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYFQXJpYWwFU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAF
+Q29sb3IEMzMzAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgVB
+cmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxlCwZmc0JvbGQA
+BUNvbG9yBJaWlgAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYF
+QXJpYWwEU2l6ZQIMBVN0eWxlCwZmc0JvbGQABUNvbG9yBJaWlgAAAC05IDIgMCAwIDIgMCAyDQpy
+dnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQp1AAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5k
+YXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50AhgLRmlyc3RJbmRlbnQCAAtGb250LkhlaWdodALwCUZv
+bnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEur5KGQAANDMgMiAwIDAgMCAwDQpZT1VSIENPTVBBTlkN
+CiAgICAgICAgICAgLkNPTQ0KNDcgMSAwIDAgMCAwDQoNCg==
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;&lt;font class=&quot;ws14&quot; color=&quot;#FFFFFF&quot;&gt;&lt;B&gt;YOUR COMPANY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws14&quot; color=&quot;#FFFFFF&quot;&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; .COM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws12&quot; color=&quot;#FFFFFF&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+"/><Component type="7" id="marquee1" zorder="11" filename="marquee41311022" width="164" height="154" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;Double click to edit text.&lt;/div&gt;
+&lt;/FONT&gt;
+" left="42" top="214" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3" behavior="" direction="Up" scrolldelay="150" scrollamount="" loop="" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpkDwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQABUNvbG9yBwhjbE1h
+cm9vbgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEF
+U3R5bGULBmZzQm9sZAAFQ29sb3IHBWNsUmVkAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgPVAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQILBVN0eWxlCwZm
+c0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0
+CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBUNvbG9yBwVjbFJlZAABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEFQ29sb3ID0gAAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQABUNv
+bG9yA9IAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9t
+YQVDb2xvcgQzMzMAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+BlRhaG9tYQVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgI
+Rm9udE5hbWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxl
+TmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIOBVN0eWxl
+CwZmc0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGBlRhaG9tYQRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIO
+BVN0eWxlCwZmc0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFy
+ZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IE
+MzMzAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEE
+U2l6ZQIIBUNvbG9yBwZjbEdyYXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYPVGltZXMgTmV3IFJvbWFuBFNpemUCDgVTdHlsZQsGZnNCb2xkCGZzSXRhbGljAAVD
+b2xvcgPVAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1l
+cyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMABUNvbG9yBDMzMwAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYPVGltZXMgTmV3IFJvbWFu
+BFNpemUCDgVTdHlsZQsGZnNCb2xkCGZzSXRhbGljAAVDb2xvcgQzmWYAAAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAg4FU3R5
+bGULBmZzQm9sZAhmc0l0YWxpYwAFQ29sb3IEM8zMAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yA9IA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXpl
+AgkFU3R5bGULBmZzQm9sZAAFQ29sb3ID0gAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXplAgkFU3R5bGULBmZzQm9sZAAFQ29sb3ID0gAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXplAgkF
+Q29sb3ID0gAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVy
+ZGFuYQRTaXplAgkFQ29sb3IHCGNsU2lsdmVyAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGB1ZlcmRhbmEEU2l6ZQIJBUNvbG9yBOvr6wAAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQVDb2xvcgTr6+sAAAEJU3R5bGVO
+YW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGB1ZlcmRhbmEFQ29sb3IE4eHhAAAB
+CVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9t
+YW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQABUNvbG9yBDPMzAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYPVGltZXMgTmV3IFJvbWFuBFNpemUCDgVDb2xvcgQzzMwA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBS
+b21hbgRTaXplAg4FQ29sb3IHBmNsR3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwhmc0l0YWxpYwAFQ29s
+b3IHBmNsR3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9U
+aW1lcyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMABUNvbG9yBwZjbEdy
+YXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6
+ZQIOAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBUFyaWFsBFNp
+emUCDgVTdHlsZQsGZnNCb2xkAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZv
+bnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxl
+CwZmc0JvbGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYFQXJpYWwFU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAF
+Q29sb3IEMzMzAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgVB
+cmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxlCwZmc0JvbGQA
+BUNvbG9yBJaWlgAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYF
+QXJpYWwEU2l6ZQIMBVN0eWxlCwZmc0JvbGQABUNvbG9yBJaWlgAAAC05IDIgMCAwIDIgMCAyDQpy
+dnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQp1AAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5k
+YXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50AhgLRmlyc3RJbmRlbnQCAAtGb250LkhlaWdodALwCUZv
+bnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEur5KGQAAMCAxIDAgMCAwIDANCkRvdWJsZSBjbGljayB0
+byBlZGl0IHRleHQuDQo=
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;Double click to edit text.&lt;/div&gt;
+&lt;/div&gt;
+" group="0" groupname=""/><Component id="text6" zorder="12" type="2" left="253" top="770" width="403" height="48" text="" filename="text41417264" group="0" groupname="" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;Copyright 2002-2005 Your Website Inc. All rights reserved.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;BR&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;Copyright 2002-2005 Your Website Inc. All rights reserved.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;BR&gt;&lt;/div&gt;
+&lt;/div&gt;
+" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrwAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFQ29sb3IEMzMzAAABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQA
+BUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYG
+VGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xHcmF5AAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQpsAAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRh
+YnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KdQAAAA4BCVN0eWxlTmFtZQYKTGlzdCBTdHlsZQhT
+dGFuZGFyZAgGTGV2ZWxzDgEKTGVmdEluZGVudAIYC0ZpcnN0SW5kZW50AgALRm9udC5IZWlnaHQC
+8AlGb250Lk5hbWUGBlN5bWJvbAAABUxzdElEBEUa5UUAADEwIDEgMCAwIDAgMA0KQ29weXJpZ2h0
+IDIwMDItMjAwNSBZb3VyIFdlYnNpdGUgSW5jLiBBbGwgcmlnaHRzIHJlc2VydmVkLg0KMCAyIDAg
+MCAwIDANCiANCg0K
+"></Component><Component id="text7" zorder="13" type="2" filename="text47434547" left="251" top="449" width="227" height="195" text="" group="0" groupname="" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Web Page Maker&lt;/font&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt; is an easy-to-use web page editor that allows you to create and upload web pages in minutes without knowing HTML. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt;Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Web Page Maker&lt;/font&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt; is an easy-to-use web page editor that allows you to create and upload web pages in minutes without knowing HTML. &lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Web Page Maker&lt;/font&gt;&lt;font class=&quot;ws8&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt; is an easy-to-use web page editor that allows you to create and upload web pages in minutes without knowing HTML. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt;Simply drag and drop objects onto the page and position them freely in the layout.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Web Page Maker&lt;/font&gt;&lt;font class=&quot;ws8&quot; color=&quot;#969696&quot; face=&quot;Tahoma&quot;&gt; is an easy-to-use web page editor that allows you to create and upload web pages in minutes without knowing HTML. &lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQq5DgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFQ29sb3IHBmNsR3JheQABCVN0eWxlTmFtZQYL
+Tm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBUNvbG9yBJaWlgAA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUC
+CAVDb2xvcgRmZpkAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+BlRhaG9tYQRTaXplAggFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgRmZpkAAAEJU3R5bGVOYW1l
+BgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULC2Zz
+VW5kZXJsaW5lAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZU
+YWhvbWEEU2l6ZQIIBVN0eWxlCwtmc1VuZGVybGluZQAFQ29sb3IHBmNsR3JheQABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwtm
+c1VuZGVybGluZQAFQ29sb3IEDUp1AAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQI
+CEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwtmc1VuZGVybGluZQAFQ29sb3IEDUqxAAAB
+CVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIH
+BUNvbG9yBwZjbEdyYXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFt
+ZQYGVGFob21hBVN0eWxlCwZmc0JvbGQAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFy
+ZAgIRm9udE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgcIY2xNYXJvb24AAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0Jv
+bGQABUNvbG9yBwVjbFJlZAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnRO
+YW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAFQ29sb3ID1QAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCwVTdHlsZQsGZnNCb2xkAAVDb2xv
+cgPVAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEE
+U2l6ZQILBVN0eWxlCwZmc0JvbGQAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgI
+Rm9udE5hbWUGBlRhaG9tYQVDb2xvcgcFY2xSZWQAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYGVGFob21hBUNvbG9yA9IAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgPSAAABCVN0
+eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEFQ29sb3IEMzMz
+AAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEFQ29s
+b3IHBmNsR3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZU
+YWhvbWEEU2l6ZQILBVN0eWxlCwZmc0JvbGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1h
+bCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCwVTdHlsZQsGZnNCb2xkAAVD
+b2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+BlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAFQ29sb3IElpaWAAABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBFNpemUCCwVTdHlsZQsGZnNCb2xk
+AAVDb2xvcgSWlpYAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+FE1pY3Jvc29mdCBTYW5zIFNlcmlmBFNpemUCCwVTdHlsZQsGZnNCb2xkAAVDb2xvcgSWlpYAAAEJ
+U3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGC0NvdXJpZXIgTmV3BFNp
+emUCCwVTdHlsZQsGZnNCb2xkAAVDb2xvcgSWlpYAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhT
+dGFuZGFyZAgIRm9udE5hbWUGDUNvbWljIFNhbnMgTVMEU2l6ZQILBVN0eWxlCwZmc0JvbGQABUNv
+bG9yBJaWlgAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHQ291
+cmllcgRTaXplAgsFU3R5bGULBmZzQm9sZAAFQ29sb3IElpaWAAABCVN0eWxlTmFtZQYLTm9ybWFs
+IHRleHQIU3RhbmRhcmQICEZvbnROYW1lBhRNaWNyb3NvZnQgU2FucyBTZXJpZgRTaXplAgwFU3R5
+bGULBmZzQm9sZAAFQ29sb3IElpaWAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQI
+CEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbEdyYXkAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVT
+dHlsZQsGZnNCb2xkAAVDb2xvcgT/mQAAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFy
+ZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgT/mQAA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXpl
+AggFQ29sb3IE/5kAAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1l
+BgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQLZnNVbmRlcmxpbmUABUNvbG9yBP+ZAAAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVD
+b2xvcgcIY2xTaWx2ZXIAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFt
+ZQYGVGFob21hBFNpemUCCAVDb2xvcgRkh44AAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULBmZzQm9sZAAFQ29sb3IEZIeOAAAB
+CVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQII
+BVN0eWxlCwtmc1VuZGVybGluZQAFQ29sb3IEZIeOAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQLZnNVbmRlcmxp
+bmUABUNvbG9yBGSHjgAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFt
+ZQYGVGFob21hBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbEdyYXkAAC05IDIgMCAwIDIgMCAyDQpy
+dnMNCrEAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAhTdGFuZGFyZAgJQWxpZ25tZW50BwhydmFSaWdodAdPcHRp
+b25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQpbAQAADgEJU3R5bGVOYW1lBgpMaXN0
+IFN0eWxlCFN0YW5kYXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50AhgLRmlyc3RJbmRlbnQCAAtGb250
+LkhlaWdodALwCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEEIUnKQABCVN0eWxlTmFtZQYKTGlz
+dCBTdHlsZQhTdGFuZGFyZAgGTGV2ZWxzDgEKTGVmdEluZGVudAIYC0ZpcnN0SW5kZW50AgALRm9u
+dC5IZWlnaHQC8AlGb250Lk5hbWUGBlN5bWJvbAAABUxzdElEBFIb5loAAQlTdHlsZU5hbWUGCkxp
+c3QgU3R5bGUIU3RhbmRhcmQIBkxldmVscw4BCkxlZnRJbmRlbnQCGAtGaXJzdEluZGVudAIAC0Zv
+bnQuSGVpZ2h0AvAJRm9udC5OYW1lBgZTeW1ib2wAAAVMc3RJRARTm6sbAAA4IDEgMCAwIDAgMA0K
+V2ViIFBhZ2UgTWFrZXINCjkgMSAtMSAxIDAgMA0KIGlzIGFuIGVhc3ktdG8tdXNlIHdlYiBwYWdl
+IGVkaXRvciB0aGF0IGFsbG93cyB5b3UgdG8gY3JlYXRlIGFuZCB1cGxvYWQgd2ViIHBhZ2VzIGlu
+IG1pbnV0ZXMgd2l0aG91dCBrbm93aW5nIEhUTUwuIA0KOSAzIDAgMCAwIDANCg0KU2ltcGx5IGRy
+YWcgYW5kIGRyb3Agb2JqZWN0cyBvbnRvIHRoZSBwYWdlIGFuZCBwb3NpdGlvbiB0aGVtIGZyZWVs
+eSBpbiB0aGUgbGF5b3V0Lg0KDQo4IDEgMCAwIDAgMA0KV2ViIFBhZ2UgTWFrZXINCjkgMSAtMSAx
+IDAgMA0KIGlzIGFuIGVhc3ktdG8tdXNlIHdlYiBwYWdlIGVkaXRvciB0aGF0IGFsbG93cyB5b3Ug
+dG8gY3JlYXRlIGFuZCB1cGxvYWQgd2ViIHBhZ2VzIGluIG1pbnV0ZXMgd2l0aG91dCBrbm93aW5n
+IEhUTUwuIA0K
+"></Component><Component type="3" id="image9" zorder="14" filename="image47727718" left="501" top="350" width="67" height="76" originwidth="67" originheight="76" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\pic12.jpg" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\pic12.jpg"/><Component type="3" id="image8" zorder="15" filename="image47757111" left="252" top="350" width="67" height="76" originwidth="67" originheight="76" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\pic22.jpg" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\pic22.jpg"/><Component id="text9" zorder="16" type="2" filename="text46280227" left="328" top="352" width="141" height="75" text="" group="0" groupname="" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;Web Page Maker&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Cum sociis natoque penati-&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;bus et magnis dis parturient&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Fusce suscipit varius mi. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;BR&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;Web Page Maker&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Cum sociis natoque penati-&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;bus et magnis dis parturient&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Fusce suscipit varius mi. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;BR&gt;&lt;/div&gt;
+&lt;/div&gt;
+" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpTBgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFQ29sb3IHBmNsR3JheQABCVN0eWxlTmFtZQYL
+Tm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBUNvbG9yBP+ZAAAA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUC
+CAVTdHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yBP+ZAAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0
+CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJs
+aW5lAAVDb2xvcgT/mQAAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGBlRhaG9tYQRTaXplAggFU3R5bGULBmZzQm9sZAAFQ29sb3IE/5kAAAABCVN0eWxlTmFtZQYL
+Tm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwtmc1Vu
+ZGVybGluZQAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFo
+b21hBFNpemUCCAVTdHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yBGSHjgAAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xk
+C2ZzVW5kZXJsaW5lAAVDb2xvcgRkh44AAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFy
+ZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULBmZzQm9sZAtmc1VuZGVybGluZQAFQ29s
+b3IDmTMAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21h
+BFNpemUCCAVTdHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yA5kzAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAgYFQ29sb3IHBmNsR3JheQABCVN0
+eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBGSHjgAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJk
+CAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xHcmF5AAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQq4AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlB
+bGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMN
+CnUAAAAOAQlTdHlsZU5hbWUGCkxpc3QgU3R5bGUIU3RhbmRhcmQIBkxldmVscw4BCkxlZnRJbmRl
+bnQCGAtGaXJzdEluZGVudAIAC0ZvbnQuSGVpZ2h0AvAJRm9udC5OYW1lBgZTeW1ib2wAAAVMc3RJ
+RARvxigdAAAyMCAyIDAgMCAwIDANCldlYiBQYWdlIE1ha2VyDQoNCjggMyAwIDAgMCAwDQpDdW0g
+c29jaWlzIG5hdG9xdWUgcGVuYXRpLQ0KYnVzIGV0IG1hZ25pcyBkaXMgcGFydHVyaWVudA0KRnVz
+Y2Ugc3VzY2lwaXQgdmFyaXVzIG1pLiANCjAgMSAwIDAgMCAwDQoNCg==
+"></Component><Component id="text3" zorder="17" type="2" filename="text46333103" left="582" top="352" width="141" height="75" text="" group="0" groupname="" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;Web Page Maker&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Cum sociis natoque penati-&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;bus et magnis dis parturient&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Fusce suscipit varius mi. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;BR&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;Web Page Maker&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Cum sociis natoque penati-&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;bus et magnis dis parturient&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Fusce suscipit varius mi. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;BR&gt;&lt;/div&gt;
+&lt;/div&gt;
+" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpTBgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFQ29sb3IHBmNsR3JheQABCVN0eWxlTmFtZQYL
+Tm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBUNvbG9yBP+ZAAAA
+AQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUC
+CAVTdHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yBP+ZAAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0
+CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJs
+aW5lAAVDb2xvcgT/mQAAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGBlRhaG9tYQRTaXplAggFU3R5bGULBmZzQm9sZAAFQ29sb3IE/5kAAAABCVN0eWxlTmFtZQYL
+Tm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwtmc1Vu
+ZGVybGluZQAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFo
+b21hBFNpemUCCAVTdHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yBGSHjgAAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xk
+C2ZzVW5kZXJsaW5lAAVDb2xvcgRkh44AAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFy
+ZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULBmZzQm9sZAtmc1VuZGVybGluZQAFQ29s
+b3IDmTMAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21h
+BFNpemUCCAVTdHlsZQsLZnNVbmRlcmxpbmUABUNvbG9yA5kzAAEJU3R5bGVOYW1lBgtOb3JtYWwg
+dGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAgYFQ29sb3IHBmNsR3JheQABCVN0
+eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBGSHjgAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJk
+CAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xHcmF5AAAt
+OSAyIDAgMCAyIDAgMg0KcnZzDQq4AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIH
+T3B0aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYPUGFyYWdyYXBoIFN0eWxlCFN0YW5kYXJkCAlB
+bGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMN
+CugAAAAOAQlTdHlsZU5hbWUGCkxpc3QgU3R5bGUIU3RhbmRhcmQIBkxldmVscw4BCkxlZnRJbmRl
+bnQCGAtGaXJzdEluZGVudAIAC0ZvbnQuSGVpZ2h0AvAJRm9udC5OYW1lBgZTeW1ib2wAAAVMc3RJ
+RATljv5bAAEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZMZXZlbHMOAQpMZWZ0SW5k
+ZW50AhgLRmlyc3RJbmRlbnQCAAtGb250LkhlaWdodALwCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0
+SUQELV6ZRwAAMjAgMiAwIDAgMCAwDQpXZWIgUGFnZSBNYWtlcg0KDQo4IDMgMCAwIDAgMA0KQ3Vt
+IHNvY2lpcyBuYXRvcXVlIHBlbmF0aS0NCmJ1cyBldCBtYWduaXMgZGlzIHBhcnR1cmllbnQNCkZ1
+c2NlIHN1c2NpcGl0IHZhcml1cyBtaS4gDQowIDEgMCAwIDAgMA0KDQo=
+"></Component><Component id="rollimg1" zorder="18" type="13" filename="rollimg47200470" width="74" height="94" linkurl="page://p38032948" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav01.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav011.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav011.gif" alt="Home" mouseoversound="" rollstyle="1" left="254" top="23" linktitle="" group="0" groupname="" linkstyle=""/><Component id="rollimg2" zorder="19" type="13" filename="rollimg47200480" width="74" height="94" linkurl="page://p46803439" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav02.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav02.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav021.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav021.gif" alt="Services" mouseoversound="" rollstyle="1" left="351" top="23" group="0" groupname="" linktitle="" linkstyle=""/><Component id="rollimg3" zorder="20" type="13" filename="rollimg47200490" width="74" height="94" linkurl="page://p46651050" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav03.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav03.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav031.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav031.gif" alt="Products" mouseoversound="" rollstyle="1" left="448" top="23" group="0" groupname="" linktitle="" linkstyle=""/><Component id="rollimg4" zorder="21" type="13" filename="rollimg47200500" width="74" height="94" linkurl="" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav04.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav04.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav041.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav041.gif" alt="About Us" mouseoversound="" rollstyle="1" left="543" top="23" group="0" groupname="" linktitle="" linkstyle=""/><Component id="rollimg5" zorder="22" type="13" filename="rollimg47200510" width="74" height="94" linkurl="mailto:support@webpage-maker.com" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav05.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav05.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav051.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav051.gif" alt="Contacts" mouseoversound="" rollstyle="1" left="637" top="23" group="0" groupname="" linktitle="" linkstyle=""/></body></page>
+	<page id="p46651050" name="products" pageindex="2"><body textcolor="" backgroundcolor="" hyperlinkcolor="" visitlinkcolor="" activelinkcolor="" title="" author="" keywords="" description="" bgimage="" bgpreview="" bgimagedata="" bgsound="" bgspreview="" bgsoundloop="-1" charset="0" charsetcode="ISO-8859-1" align="1" headcode="" effectstyle0="0" effectduration0="0" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" bgfixed=""><Component id="image1" zorder="1" type="3" filename="image16358101" left="22" top="3" width="206" height="138" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\leftop.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\leftop.gif" originwidth="206" originheight="138"/><Component id="image2" zorder="2" type="3" filename="image17214252" left="22" top="141" width="726" height="20" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" originwidth="4" originheight="20"/><Component id="image3" zorder="0" type="3" filename="image17472434" left="21" top="609" width="200" height="139" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left01.gif" originwidth="200" originheight="139" changefilename="0" alt="" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3"/><Component id="image4" zorder="3" type="3" filename="image17753137" left="21" top="319" width="200" height="297" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left02.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left02.gif" originwidth="200" originheight="7"/><Component id="image5" zorder="4" type="3" filename="image17985822" left="21" top="164" width="200" height="155" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left03.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\left03.gif" originwidth="200" originheight="155"/><Component id="image6" zorder="5" type="3" filename="image18451652" left="21" top="748" width="730" height="20" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" originwidth="4" originheight="20" group="0" groupname=""/><Component id="image7" zorder="6" type="3" filename="image18756550" left="21" top="359" width="194" height="20" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\line01.gif" originwidth="4" originheight="20" group="0" groupname=""/><Component id="text2" zorder="7" type="2" left="44" top="391" width="156" height="205" text="" filename="text19092763" group="0" groupname="" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#D90000&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#0E49B1&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;U&gt; TODAY&amp;nbsp;&amp;nbsp; NEWS &lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&amp;nbsp;&amp;nbsp; Double click to edit text.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#D90000&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#0E49B1&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;U&gt; TODAY&amp;nbsp;&amp;nbsp; NEWS &lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; face=&quot;Tahoma&quot;&gt;&amp;nbsp;&amp;nbsp; Double click to edit text.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#D90000&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font class=&quot;ws8&quot; color=&quot;#0E49B1&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;U&gt; TODAY&amp;nbsp;&amp;nbsp; NEWS &lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&amp;nbsp;&amp;nbsp; Double click to edit text.&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#D90000&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font class=&quot;ws8&quot; color=&quot;#0E49B1&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;U&gt; TODAY&amp;nbsp;&amp;nbsp; NEWS &lt;/U&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; face=&quot;Tahoma&quot;&gt;&amp;nbsp;&amp;nbsp; Double click to edit text.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpHBwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQLZnNVbmRlcmxpbmUA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQVTdHls
+ZQsGZnNCb2xkC2ZzVW5kZXJsaW5lAAVDb2xvcgOZMwABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAtmc1VuZGVybGluZQAFQ29s
+b3ID2QAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21h
+BVN0eWxlCwZmc0JvbGQABUNvbG9yA9kAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFy
+ZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULBmZzQm9sZAAFQ29sb3ID2QAAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAABCVN0
+eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0
+eWxlCwZmc0JvbGQAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+BlRhaG9tYQRTaXplAggFU3R5bGULBmZzQm9sZAtmc1VuZGVybGluZQAFQ29sb3ID2QAAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHls
+ZQsGZnNCb2xkAAVDb2xvcgQzM5kAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgI
+Rm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULBmZzQm9sZAtmc1VuZGVybGluZQAFQ29sb3IE
+MzOZAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEE
+U2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yBA5JsQAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0
+CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xkC2ZzVW5kZXJs
+aW5lAAVDb2xvcgQOSbEAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGBlRhaG9tYQRTaXplAggFU3R5bGULBmZzQm9sZAAFQ29sb3IHBmNsR3JheQABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZm
+c0JvbGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250
+TmFtZQYFQXJpYWwEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbEdyYXkAAQlTdHlsZU5h
+bWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwFU3R5bGULBmZzQm9sZAAF
+Q29sb3IHBmNsR3JheQAALTkgMiAwIDAgMiAwIDINCnJ2cw0KbAAAAA4BCVN0eWxlTmFtZQYPUGFy
+YWdyYXBoIFN0eWxlB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdu
+bWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJzDgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCnUA
+AAAOAQlTdHlsZU5hbWUGCkxpc3QgU3R5bGUIU3RhbmRhcmQIBkxldmVscw4BCkxlZnRJbmRlbnQC
+GAtGaXJzdEluZGVudAIAC0ZvbnQuSGVpZ2h0AvAJRm9udC5OYW1lBgZTeW1ib2wAAAVMc3RJRATi
+tsFWAAAxMiAxIDAgMCAwIDANCiAgICAgICAgDQoxOSAxIC0xIDEgMCAwDQogVE9EQVkgICBORVdT
+IA0KMTQgMSAwIDAgMCAwDQoNCjEzIDcgMCAwIDAgMA0KICAgRG91YmxlIGNsaWNrIHRvIGVkaXQg
+dGV4dC4NCg0KDQoNCg0KDQoNCjEyIDEgMCAwIDAgMA0KICAgICAgICANCjE5IDEgLTEgMSAwIDAN
+CiBUT0RBWSAgIE5FV1MgDQoxNCAxIDAgMCAwIDANCg0KMTMgMSAwIDAgMCAwDQogICBEb3VibGUg
+Y2xpY2sgdG8gZWRpdCB0ZXh0Lg0K
+"></Component><Component id="text1" zorder="8" type="2" left="251" top="184" width="480" height="155" text="" filename="text40743876" group="0" groupname="" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:19px&quot; color=&quot;#33CCCC&quot; face=&quot;Times New Roman&quot;&gt;&lt;B&gt;&lt;I&gt;Welcome to &lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;font style=&quot;font-size:19px&quot; color=&quot;#333333&quot; face=&quot;Times New Roman&quot;&gt;&lt;B&gt;&lt;I&gt;company website!&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:15px&quot; color=&quot;#333333&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Web Page Maker is an extremely easy to use utility that allows you to create your own pages without even knowing HTML. You can create your site using Web Page Maker's professional templates or start from scratch by dragging and dropping images, music and video.. into a layout. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;During the edit process, you can easily move the elements with your mouse to anywhere on the page. Other features include thumbnail, mouse-over effects, ready-to-use Java Script effects, text link style sheet, tables, forms, iframes etc. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color=&quot;#C0C0C0&quot; face=&quot;Verdana&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;&lt;font class=&quot;ws14&quot; color=&quot;#33CCCC&quot; face=&quot;Times New Roman&quot;&gt;&lt;B&gt;&lt;I&gt;Welcome to &lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;font class=&quot;ws14&quot; color=&quot;#333333&quot; face=&quot;Times New Roman&quot;&gt;&lt;B&gt;&lt;I&gt;company website!&lt;/I&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws11&quot; color=&quot;#333333&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;Web Page Maker is an extremely easy to use utility that allows you to create your own pages without even knowing HTML. You can create your site using Web Page Maker's professional templates or start from scratch by dragging and dropping images, music and video.. into a layout. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;During the edit process, you can easily move the elements with your mouse to anywhere on the page. Other features include thumbnail, mouse-over effects, ready-to-use Java Script effects, text link style sheet, tables, forms, iframes etc. &lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color=&quot;#C0C0C0&quot; face=&quot;Verdana&quot;&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrXDQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQABUNvbG9yBwhjbE1h
+cm9vbgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEF
+U3R5bGULBmZzQm9sZAAFQ29sb3IHBWNsUmVkAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgPVAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQILBVN0eWxlCwZm
+c0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0
+CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBUNvbG9yBwVjbFJlZAABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEFQ29sb3ID0gAAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQABUNv
+bG9yA9IAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9t
+YQVDb2xvcgQzMzMAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+BlRhaG9tYQVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgI
+Rm9udE5hbWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxl
+TmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIOBVN0eWxl
+CwZmc0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGBlRhaG9tYQRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIO
+BVN0eWxlCwZmc0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFy
+ZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IE
+MzMzAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEE
+U2l6ZQIIBUNvbG9yBwZjbEdyYXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYPVGltZXMgTmV3IFJvbWFuBFNpemUCDgVTdHlsZQsGZnNCb2xkCGZzSXRhbGljAAVD
+b2xvcgPVAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1l
+cyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMABUNvbG9yBDMzMwAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYPVGltZXMgTmV3IFJvbWFu
+BFNpemUCDgVTdHlsZQsGZnNCb2xkCGZzSXRhbGljAAVDb2xvcgQzmWYAAAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAg4FU3R5
+bGULBmZzQm9sZAhmc0l0YWxpYwAFQ29sb3IEM8zMAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yA9IA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXpl
+AgkFU3R5bGULBmZzQm9sZAAFQ29sb3ID0gAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXplAgkFU3R5bGULBmZzQm9sZAAFQ29sb3ID0gAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXplAgkF
+Q29sb3ID0gAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVy
+ZGFuYQRTaXplAgkFQ29sb3IHCGNsU2lsdmVyAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGB1ZlcmRhbmEEU2l6ZQIJBUNvbG9yBOvr6wAAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQVDb2xvcgTr6+sAAAEJU3R5bGVO
+YW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGB1ZlcmRhbmEFQ29sb3IE4eHhAAAB
+CVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdWZXJkYW5hBUNvbG9y
+BwhjbFNpbHZlcgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZU
+YWhvbWEEU2l6ZQIGBUNvbG9yBwZjbEdyYXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBUNvbG9yBJaWlgAAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBFNpemUCCAVDb2xvcgRmZpkAAAEJ
+U3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggF
+U3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgRmZpkAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhT
+dGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFU3R5bGULC2ZzVW5kZXJsaW5lAAABCVN0
+eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0
+eWxlCwtmc1VuZGVybGluZQAFQ29sb3IHBmNsR3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwtmc1VuZGVybGluZQAFQ29s
+b3IEDUp1AAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhv
+bWEEU2l6ZQIIBVN0eWxlCwtmc1VuZGVybGluZQAFQ29sb3IEDUqxAAAALTkgMiAwIDAgMiAwIDIN
+CnJ2cw0KbAAAAA4BCVN0eWxlTmFtZQYPUGFyYWdyYXBoIFN0eWxlB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAC05IDIgMCAwIDIgMCA0DQpydnMNClsBAAAOAQlTdHlsZU5hbWUGCkxpc3QgU3R5bGUIU3Rh
+bmRhcmQIBkxldmVscw4BCkxlZnRJbmRlbnQCGAtGaXJzdEluZGVudAIAC0ZvbnQuSGVpZ2h0AvAJ
+Rm9udC5OYW1lBgZTeW1ib2wAAAVMc3RJRASV8ZddAAEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0
+YW5kYXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50AhgLRmlyc3RJbmRlbnQCAAtGb250LkhlaWdodALw
+CUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEnlQtXwABCVN0eWxlTmFtZQYKTGlzdCBTdHlsZQhT
+dGFuZGFyZAgGTGV2ZWxzDgEKTGVmdEluZGVudAIYC0ZpcnN0SW5kZW50AgALRm9udC5IZWlnaHQC
+8AlGb250Lk5hbWUGBlN5bWJvbAAABUxzdElEBB3lgFwAADI3IDEgMCAwIDAgMA0KV2VsY29tZSB0
+byANCjI1IDEgLTEgMSAwIDANCmNvbXBhbnkgd2Vic2l0ZSENCjE4IDEgMCAwIDAgMA0KDQoyMyAz
+IDAgMCAwIDANCldlYiBQYWdlIE1ha2VyIGlzIGFuIGV4dHJlbWVseSBlYXN5IHRvIHVzZSB1dGls
+aXR5IHRoYXQgYWxsb3dzIHlvdSB0byBjcmVhdGUgeW91ciBvd24gcGFnZXMgd2l0aG91dCBldmVu
+IGtub3dpbmcgSFRNTC4gWW91IGNhbiBjcmVhdGUgeW91ciBzaXRlIHVzaW5nIFdlYiBQYWdlIE1h
+a2VyJ3MgcHJvZmVzc2lvbmFsIHRlbXBsYXRlcyBvciBzdGFydCBmcm9tIHNjcmF0Y2ggYnkgZHJh
+Z2dpbmcgYW5kIGRyb3BwaW5nIGltYWdlcywgbXVzaWMgYW5kIHZpZGVvLi4gaW50byBhIGxheW91
+dC4gDQoNCkR1cmluZyB0aGUgZWRpdCBwcm9jZXNzLCB5b3UgY2FuIGVhc2lseSBtb3ZlIHRoZSBl
+bGVtZW50cyB3aXRoIHlvdXIgbW91c2UgdG8gYW55d2hlcmUgb24gdGhlIHBhZ2UuIE90aGVyIGZl
+YXR1cmVzIGluY2x1ZGUgdGh1bWJuYWlsLCBtb3VzZS1vdmVyIGVmZmVjdHMsIHJlYWR5LXRvLXVz
+ZSBKYXZhIFNjcmlwdCBlZmZlY3RzLCB0ZXh0IGxpbmsgc3R5bGUgc2hlZXQsIHRhYmxlcywgZm9y
+bXMsIGlmcmFtZXMgZXRjLiANCjM2IDEgMCAwIDAgMA0KDQo=
+" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3"></Component><Component type="2" id="text5" zorder="9" filename="text41076004" left="43" top="50" width="164" height="90" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:19px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;B&gt;YOUR COMPANY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:19px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; .COM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:16px&quot; color=&quot;#FFFFFF&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpkDwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQABUNvbG9yBwhjbE1h
+cm9vbgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEF
+U3R5bGULBmZzQm9sZAAFQ29sb3IHBWNsUmVkAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgPVAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQILBVN0eWxlCwZm
+c0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0
+CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBUNvbG9yBwVjbFJlZAABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEFQ29sb3ID0gAAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQABUNv
+bG9yA9IAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9t
+YQVDb2xvcgQzMzMAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+BlRhaG9tYQVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgI
+Rm9udE5hbWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxl
+TmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIOBVN0eWxl
+CwZmc0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGBlRhaG9tYQRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIO
+BVN0eWxlCwZmc0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFy
+ZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IE
+MzMzAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEE
+U2l6ZQIIBUNvbG9yBwZjbEdyYXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYPVGltZXMgTmV3IFJvbWFuBFNpemUCDgVTdHlsZQsGZnNCb2xkCGZzSXRhbGljAAVD
+b2xvcgPVAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1l
+cyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMABUNvbG9yBDMzMwAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYPVGltZXMgTmV3IFJvbWFu
+BFNpemUCDgVTdHlsZQsGZnNCb2xkCGZzSXRhbGljAAVDb2xvcgQzmWYAAAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAg4FU3R5
+bGULBmZzQm9sZAhmc0l0YWxpYwAFQ29sb3IEM8zMAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yA9IA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXpl
+AgkFU3R5bGULBmZzQm9sZAAFQ29sb3ID0gAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXplAgkFU3R5bGULBmZzQm9sZAAFQ29sb3ID0gAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXplAgkF
+Q29sb3ID0gAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVy
+ZGFuYQRTaXplAgkFQ29sb3IHCGNsU2lsdmVyAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGB1ZlcmRhbmEEU2l6ZQIJBUNvbG9yBOvr6wAAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQVDb2xvcgTr6+sAAAEJU3R5bGVO
+YW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGB1ZlcmRhbmEFQ29sb3IE4eHhAAAB
+CVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9t
+YW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQABUNvbG9yBDPMzAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYPVGltZXMgTmV3IFJvbWFuBFNpemUCDgVDb2xvcgQzzMwA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBS
+b21hbgRTaXplAg4FQ29sb3IHBmNsR3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwhmc0l0YWxpYwAFQ29s
+b3IHBmNsR3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9U
+aW1lcyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMABUNvbG9yBwZjbEdy
+YXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6
+ZQIOAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBUFyaWFsBFNp
+emUCDgVTdHlsZQsGZnNCb2xkAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZv
+bnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxl
+CwZmc0JvbGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYFQXJpYWwFU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAF
+Q29sb3IEMzMzAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgVB
+cmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxlCwZmc0JvbGQA
+BUNvbG9yBJaWlgAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYF
+QXJpYWwEU2l6ZQIMBVN0eWxlCwZmc0JvbGQABUNvbG9yBJaWlgAAAC05IDIgMCAwIDIgMCAyDQpy
+dnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQp1AAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5k
+YXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50AhgLRmlyc3RJbmRlbnQCAAtGb250LkhlaWdodALwCUZv
+bnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEur5KGQAANDMgMiAwIDAgMCAwDQpZT1VSIENPTVBBTlkN
+CiAgICAgICAgICAgLkNPTQ0KNDcgMSAwIDAgMCAwDQoNCg==
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;&lt;font class=&quot;ws14&quot; color=&quot;#FFFFFF&quot;&gt;&lt;B&gt;YOUR COMPANY&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws14&quot; color=&quot;#FFFFFF&quot;&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; .COM&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font class=&quot;ws12&quot; color=&quot;#FFFFFF&quot;&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+"/><Component type="7" id="marquee1" zorder="10" filename="marquee41311022" width="164" height="154" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;Double click to edit text.&lt;/div&gt;
+&lt;/FONT&gt;
+" left="42" top="214" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3" behavior="" direction="Up" scrolldelay="150" scrollamount="" loop="" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpkDwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQABUNvbG9yBwhjbE1h
+cm9vbgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEF
+U3R5bGULBmZzQm9sZAAFQ29sb3IHBWNsUmVkAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGBlRhaG9tYQVTdHlsZQsGZnNCb2xkAAVDb2xvcgPVAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQILBVN0eWxlCwZm
+c0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5h
+bWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0
+CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBUNvbG9yBwVjbFJlZAABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEFQ29sb3ID0gAAAQlTdHlsZU5hbWUG
+C05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQABUNv
+bG9yA9IAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9t
+YQVDb2xvcgQzMzMAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUG
+BlRhaG9tYQVDb2xvcgcGY2xHcmF5AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgI
+Rm9udE5hbWUGBlRhaG9tYQRTaXplAgsFU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxl
+TmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIOBVN0eWxl
+CwZmc0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9u
+dE5hbWUGBlRhaG9tYQRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIO
+BVN0eWxlCwZmc0JvbGQABUNvbG9yA9UAAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFy
+ZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IE
+MzMzAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEE
+U2l6ZQIIBUNvbG9yBwZjbEdyYXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYPVGltZXMgTmV3IFJvbWFuBFNpemUCDgVTdHlsZQsGZnNCb2xkCGZzSXRhbGljAAVD
+b2xvcgPVAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1l
+cyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMABUNvbG9yBDMzMwAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYPVGltZXMgTmV3IFJvbWFu
+BFNpemUCDgVTdHlsZQsGZnNCb2xkCGZzSXRhbGljAAVDb2xvcgQzmWYAAAEJU3R5bGVOYW1lBgtO
+b3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBSb21hbgRTaXplAg4FU3R5
+bGULBmZzQm9sZAhmc0l0YWxpYwAFQ29sb3IEM8zMAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQABUNvbG9yA9IA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXpl
+AgkFU3R5bGULBmZzQm9sZAAFQ29sb3ID0gAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5k
+YXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXplAgkFU3R5bGULBmZzQm9sZAAFQ29sb3ID0gAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQRTaXplAgkF
+Q29sb3ID0gAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVy
+ZGFuYQRTaXplAgkFQ29sb3IHCGNsU2lsdmVyAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGB1ZlcmRhbmEEU2l6ZQIJBUNvbG9yBOvr6wAAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYHVmVyZGFuYQVDb2xvcgTr6+sAAAEJU3R5bGVO
+YW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGB1ZlcmRhbmEFQ29sb3IE4eHhAAAB
+CVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9t
+YW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQABUNvbG9yBDPMzAAAAQlTdHlsZU5hbWUGC05vcm1hbCB0
+ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYPVGltZXMgTmV3IFJvbWFuBFNpemUCDgVDb2xvcgQzzMwA
+AAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGD1RpbWVzIE5ldyBS
+b21hbgRTaXplAg4FQ29sb3IHBmNsR3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBg9UaW1lcyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwhmc0l0YWxpYwAFQ29s
+b3IHBmNsR3JheQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBg9U
+aW1lcyBOZXcgUm9tYW4EU2l6ZQIOBVN0eWxlCwZmc0JvbGQIZnNJdGFsaWMABUNvbG9yBwZjbEdy
+YXkAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6
+ZQIOAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFuZGFyZAgIRm9udE5hbWUGBUFyaWFsBFNp
+emUCDgVTdHlsZQsGZnNCb2xkAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZv
+bnROYW1lBgVBcmlhbARTaXplAg4FU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHls
+ZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxl
+CwZmc0JvbGQABUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhG
+b250TmFtZQYFQXJpYWwFU3R5bGULBmZzQm9sZAAFQ29sb3IEMzMzAAABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgVBcmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAF
+Q29sb3IEMzMzAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgVB
+cmlhbARTaXplAgwFU3R5bGULBmZzQm9sZAAFQ29sb3IHB2NsV2hpdGUAAQlTdHlsZU5hbWUGC05v
+cm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYFQXJpYWwEU2l6ZQIOBVN0eWxlCwZmc0JvbGQA
+BUNvbG9yBJaWlgAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYF
+QXJpYWwEU2l6ZQIMBVN0eWxlCwZmc0JvbGQABUNvbG9yBJaWlgAAAC05IDIgMCAwIDIgMCAyDQpy
+dnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4AAAEJ
+U3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4A
+AAAtOSAyIDAgMCAyIDAgNA0KcnZzDQp1AAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5k
+YXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50AhgLRmlyc3RJbmRlbnQCAAtGb250LkhlaWdodALwCUZv
+bnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEur5KGQAAMCAxIDAgMCAwIDANCkRvdWJsZSBjbGljayB0
+byBlZGl0IHRleHQuDQo=
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;Double click to edit text.&lt;/div&gt;
+&lt;/div&gt;
+" group="0" groupname=""/><Component id="text6" zorder="11" type="2" left="253" top="770" width="403" height="48" text="" filename="text41417264" group="0" groupname="" html="&lt;FONT style=&quot;font-size:13px&quot; color=&quot;#000000&quot; face=&quot;Arial&quot;&gt;
+&lt;div&gt;&lt;font style=&quot;font-size:11px&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;Copyright 2002-2005 Your Website Inc. All rights reserved.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;BR&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+" exporthtml="&lt;div class=&quot;wpmd&quot;&gt;
+&lt;div&gt;&lt;font class=&quot;ws8&quot; color=&quot;#808080&quot; face=&quot;Tahoma&quot;&gt;&lt;B&gt;Copyright 2002-2005 Your Website Inc. All rights reserved.&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt; &lt;/div&gt;
+&lt;div&gt;&lt;BR&gt;&lt;/div&gt;
+&lt;/div&gt;
+" rvf="LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrwAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIAAEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4dAhTdGFu
+ZGFyZAgIRm9udE5hbWUGBlRhaG9tYQRTaXplAggFQ29sb3IEMzMzAAABCVN0eWxlTmFtZQYLTm9y
+bWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBVN0eWxlCwZmc0JvbGQA
+BUNvbG9yBDMzMwAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYG
+VGFob21hBFNpemUCCAVTdHlsZQsGZnNCb2xkAAVDb2xvcgcGY2xHcmF5AAAtOSAyIDAgMCAyIDAg
+Mg0KcnZzDQpsAAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMO
+AAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRh
+YnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KdQAAAA4BCVN0eWxlTmFtZQYKTGlzdCBTdHlsZQhT
+dGFuZGFyZAgGTGV2ZWxzDgEKTGVmdEluZGVudAIYC0ZpcnN0SW5kZW50AgALRm9udC5IZWlnaHQC
+8AlGb250Lk5hbWUGBlN5bWJvbAAABUxzdElEBEUa5UUAADEwIDEgMCAwIDAgMA0KQ29weXJpZ2h0
+IDIwMDItMjAwNSBZb3VyIFdlYnNpdGUgSW5jLiBBbGwgcmlnaHRzIHJlc2VydmVkLg0KMCAyIDAg
+MCAwIDANCiANCg0K
+"></Component><Component id="rollimg1" zorder="12" type="13" filename="rollimg47204746" width="74" height="94" linkurl="page://p38032948" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav01.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav01.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav011.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav011.gif" alt="Home" mouseoversound="" rollstyle="1" left="254" top="23" linktitle="" group="0" groupname="" linkstyle=""/><Component id="rollimg2" zorder="13" type="13" filename="rollimg47204756" width="74" height="94" linkurl="page://p46803439" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav02.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav02.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav021.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav021.gif" alt="Services" mouseoversound="" rollstyle="1" left="351" top="23" group="0" groupname="" linktitle="" linkstyle=""/><Component id="rollimg3" zorder="14" type="13" filename="rollimg47204766" width="74" height="94" linkurl="page://p46651050" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav03.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav03.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav031.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav031.gif" alt="Products" mouseoversound="" rollstyle="1" left="448" top="23" group="0" groupname="" linktitle="" linkstyle=""/><Component id="rollimg4" zorder="15" type="13" filename="rollimg47204776" width="74" height="94" linkurl="" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav04.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav04.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav041.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav041.gif" alt="About Us" mouseoversound="" rollstyle="1" left="543" top="23" group="0" groupname="" linktitle="" linkstyle=""/><Component id="rollimg5" zorder="16" type="13" filename="rollimg47204786" width="74" height="94" linkurl="mailto:support@webpage-maker.com" linktype="" src="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav05.gif" previewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav05.gif" preloadimg="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav051.gif" preloadpreviewfile="D:\х.з\Новая папка (2)\Documents\Web Page Maker 3.22\Доп. Шаблоны сайтов\Business1\Business007\images\nav051.gif" alt="Contacts" mouseoversound="" rollstyle="1" left="637" top="23" group="0" groupname="" linktitle="" linkstyle=""/></body></page>
+	<components/></site>
